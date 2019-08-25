@@ -1,0 +1,25 @@
+{
+  "name": "jest-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moustru/jest-examples.git"
+  },
+  "author": "moustru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moustru/jest-examples/issues"
+  },
+  "homepage": "https://github.com/moustru/jest-examples#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "typescript": "^3.5.3"
+  }
+}
